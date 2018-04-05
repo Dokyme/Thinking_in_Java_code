@@ -1,6 +1,9 @@
 package access;
 
-import net.mindview.simple.*;
+import net.mindview.util.*;
+
+import java.util.List;
+import java.util.Vector;
 
 /**
  * Created by zdk on 17-2-1.
@@ -8,6 +11,5 @@ import net.mindview.simple.*;
 public class LibTest {
     public static void main(String[] args) {
         Vector v = new Vector();
-        List l = new List();
     }
 }
